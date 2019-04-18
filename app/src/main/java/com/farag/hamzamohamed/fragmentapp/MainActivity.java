@@ -8,6 +8,8 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     // Hello
+    // git push gitHub
+    // git push gitLab
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
