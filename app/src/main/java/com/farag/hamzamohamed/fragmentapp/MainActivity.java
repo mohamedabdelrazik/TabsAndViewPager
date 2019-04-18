@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     // Hello
     // git push gitHub
     // git push gitLab
-    // git
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
